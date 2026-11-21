@@ -122,7 +122,7 @@ def process_image_directory_hd_lossless(directory_path):
 
 
 # --- Example Usage ---
-target_directory = '/Users/jithin/Files/untitled/scnrs2'
+target_directory = '/Users/jithin/Files/untitled/scnrs'
 # target_directory = '/Users/jithin/Desktop/techs/scripts/tests/img/done'
 
 process_image_directory_hd_lossless(target_directory)
